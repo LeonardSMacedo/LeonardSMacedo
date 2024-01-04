@@ -1,14 +1,14 @@
 ### Hi there 👋<div>
-  <a href="https://github.com/LeonardoSMacedo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSMacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSMacedo&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/LeonardSMacedo">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeonardSMacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardSMacedo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <!-- <div style="display: inline-block">
-  <img align="center" src="https://github.com/LeonardoSMacedo/LeonardoSMacedo/raw/master/icons/html.png">
-  <img align="center" src="https://github.com/LeonardoSMacedo/LeonardoSMacedo/raw/master/icons/css.png">
-  <img align="center" src="https://github.com/LeonardoSMacedo/LeonardoSMacedo/raw/master/icons/js.png">
-  <img align="center" src="https://github.com/LeonardoSMacedo/LeonardoSMacedo/raw/master/icons/php.png">
-  <img align="center" src="https://github.com/LeonardoSMacedo/LeonardoSMacedo/raw/master/icons/wordpress.png">
+  <img align="center" src="https://github.com/LeonardoSMacedo/LeonardSMacedo/raw/master/icons/html.png">
+  <img align="center" src="https://github.com/LeonardoSMacedo/LeonardSMacedo/raw/master/icons/css.png">
+  <img align="center" src="https://github.com/LeonardoSMacedo/LeonardSMacedo/raw/master/icons/js.png">
+  <img align="center" src="https://github.com/LeonardoSMacedo/LeonardSMacedo/raw/master/icons/php.png">
+  <img align="center" src="https://github.com/LeonardoSMacedo/LeonardSMacedo/raw/master/icons/wordpress.png">
 </div> -->
 <!--
 **LeonardSMacedo/LeonardSMacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
