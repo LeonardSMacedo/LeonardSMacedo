@@ -2,7 +2,7 @@
   <h1>Leonardo Macedo </h1>
 </header>
 <nav>
-  <h4 width="300em">Sou estudante do 2º ano cursando Analise e Desenvolvimento 👨‍💻<br> Pela Universidade Faculdade de Tecnologia de Garça 🧑‍🎓 <br> Atualmente estou estagiando em uma empresa de e-commerce Eficaz Marketing 🏬.</h4>
+  <h4 width="300em">Atualmente sou estudante do 2º ano cursando Analise e Desenvolvimento 👨‍💻<br> Pela Faculdade de Tecnologia de Garça 🧑‍🎓 <br> Atualmente estou estagiando em uma empresa de e-commerce Eficaz Marketing 🏬.</h4>
 </nav>
 
 <div>
